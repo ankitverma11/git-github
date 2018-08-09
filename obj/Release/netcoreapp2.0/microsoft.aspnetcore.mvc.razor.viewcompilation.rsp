@@ -1,0 +1,15 @@
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=GenacisCore
+--content-root=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Home\About.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Home\Contact.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Home\Index.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Report\ReportViewer.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Shared\Error.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Shared\_Layout.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Shared\_LayoutReport.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Shared\_ShowReport.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\_ViewImports.cshtml
+--file=E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\Views\_ViewStart.cshtml

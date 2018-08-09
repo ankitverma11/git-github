@@ -1,0 +1,11 @@
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\bin\Release\netcoreapp2.0\GenacisCore.deps.json
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\bin\Release\netcoreapp2.0\GenacisCore.runtimeconfig.json
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\bin\Release\netcoreapp2.0\GenacisCore.runtimeconfig.dev.json
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\bin\Release\netcoreapp2.0\GenacisCore.dll
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\bin\Release\netcoreapp2.0\GenacisCore.pdb
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\obj\Release\netcoreapp2.0\GenacisCore.csprojAssemblyReference.cache
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\obj\Release\netcoreapp2.0\GenacisCore.csproj.CoreCompileInputs.cache
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\obj\Release\netcoreapp2.0\GenacisCore.AssemblyInfoInputs.cache
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\obj\Release\netcoreapp2.0\GenacisCore.AssemblyInfo.cs
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\obj\Release\netcoreapp2.0\GenacisCore.dll
+E:\Genecis_SVN\GenacisCoreforReportsInCore\GenacisCore\obj\Release\netcoreapp2.0\GenacisCore.pdb

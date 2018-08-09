@@ -1,0 +1,29 @@
+﻿@model AlanJuden.MvcReportViewer.ReportViewerModel
+@using AlanJuden.MvcReportViewer
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutReport.cshtml";
+}
+
+<h2>Index</h2>
+
+@section AdditionalHeadContent {
+    <link type="text/css" rel="stylesheet" href="~/css/select2.min.css" />
+    <link type="text/css" rel="stylesheet" href="~/css/select2-bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="~/css/mvcreportviewer-bootstrap.css" />
+    <style type="text/css">
+        .row {
+            margin-left: 0;
+            margin-right: 0;
+        }
+    </style>
+    <script type="text/javascript" src="~/js/select2.min.4.0.3.js"></script>
+    <script type="text/javascript" src="~/js/jquery.highlight-5.js"></script>
+
+}
+@*<a asp-controller="Report" asp-action="DeviceFC1">Device Report For Customer ID 1</a>*@
+<button id="NewBrowserBtn" class="btn-default">Device Report For Customer ID 1</button>
+@section Content {
+    @Html.RenderReportViewer(Model)
+}
+
