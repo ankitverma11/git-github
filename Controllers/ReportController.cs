@@ -28,11 +28,7 @@ namespace AlanJuden.MvcReportViewer.ExampleWebsite.NetCore.Controllers
 			get
 			{
                 //You don't want to put the full API path here, just the path to the report server's ReportServer directory that it creates (you should be able to access this path from your browser: https://YourReportServerUrl.com/ReportServer/ReportExecution2005.asmx )
-                //return "http://c40-sf-124/ReportServer";
-                  return "http://powells-db/ReportServer_GENACIS2016";
-                //return "http://216.12.92.186/ReportServer";
-
-
+                return "http://c40-sf-124/ReportServer";
             }
         }
 
